@@ -17,4 +17,5 @@ This Repo was created to catalog and track all code filkes and projects for Quan
 
 ## QFT
 * The Quantum Fourier Tranformation was the topic I choose for the final
-* I found it interesting as the bulk of this transformation is identical to its classical counterpart, and its able to encode binary values to states, transform and pull them back out.
+* I found it interesting as the bulk of this transformation is identical to its classical counterpart, and its able to encode binary values to states, transform and pull them back out. I will not attempt to write the equation in markdown.
+![Circuit](Pennylane/QFT/output.png "Circuit" ) 
